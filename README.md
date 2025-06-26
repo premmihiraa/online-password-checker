@@ -1,4 +1,3 @@
-Here's a very simple plaintext explanation you can include as a README or instruction.
 
 Password Breach Checker
 
